@@ -1,1 +1,1 @@
-# Meta-3.2-ndices-loc-e-iloc-en-pandas
+Meta-3.2-Implementar-Indices-y-funciones-loc-e-iloc-en-pandas
